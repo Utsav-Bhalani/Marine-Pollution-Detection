@@ -1,3 +1,6 @@
 streamlit
+pillow
 ultralytics
 numpy
+opencv-python-headless
+torch  # Only if not included by ultralytics, required for YOLO models
